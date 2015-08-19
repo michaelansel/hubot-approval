@@ -1,7 +1,7 @@
 {
   "name": "hubot-approval",
   "description": "Middleware for managing peer approvals of Hubot commands",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Michael Ansel <mansel@box.com>",
   "license": "MIT",
 
