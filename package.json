@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-approval.git"
+    "url": "git://github.com/michaelansel/hubot-approval.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-approval/issues"
+    "url": "https://github.com/michaelansel/hubot-approval/issues"
   },
 
   "dependencies": {
